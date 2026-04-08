@@ -9,7 +9,7 @@ const OPERACIONES = [
   { key: "guatemala",      nombre: "Guatemala",      op: "ars-guatemala",      flag: "🇬🇹", activo: true  },
   { key: "honduras",       nombre: "Honduras",       op: "ars-honduras",       flag: "🇭🇳", activo: true  },
   { key: "panama_bge",     nombre: "Panamá BGE",     op: "aros-banco-general", flag: "🇵🇦", activo: true  },
-  { key: "nicaragua",      nombre: "Nicaragua",      op: "ars-col-nicaragua",  flag: "🇳🇮", activo: false },
+  { key: "nicaragua",      nombre: "Nicaragua",      op: "ars-col-nicaragua",  flag: "🇳🇮", activo: true },
 ];
 
 // ─── Construir tarjetas ───────────────────────────────────────────────────────
